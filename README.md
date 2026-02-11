@@ -52,5 +52,4 @@ We offer a general newsletter containing the latest news and updates. Subscribe 
 
 ---
 
-**Thank you for visiting! We look forward to working with you.*
-nocqonqocqocn:*
+**Thank you for visiting! We look forward to working with you.**
